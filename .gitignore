@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# Generated outputs
+figures/
+*.png
+*.pdf
+
+# Data (grid files — not included in repo, see README for download)
+data/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Jupyter
+.ipynb_checkpoints/
