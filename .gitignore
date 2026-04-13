@@ -10,9 +10,9 @@ venv/
 .DS_Store
 
 # Generated outputs
-figures/
-*.png
-*.pdf
+#figures/
+#*.png
+#*.pdf
 
 # Data (grid files — not included in repo, see README for download)
 data/
