@@ -1,4 +1,4 @@
-# 2D Navier-Stokes SIMPLE Solver
+# Numerical Algorithm for Coupled Nonlinear Systems
 
 A Python implementation of the **SIMPLE** (Semi-Implicit Method for Pressure-Linked Equations) algorithm for solving 2D steady incompressible laminar flow on non-equidistant collocated grids.
 
